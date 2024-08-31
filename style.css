@@ -48,6 +48,9 @@ button{
     height: 50px;
     width: 50px;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
 }
 button:hover{
     background-color: hsl(0, 0%, 50%);

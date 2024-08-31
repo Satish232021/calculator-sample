@@ -55,19 +55,24 @@ button{
 }
 button:hover{
     background-color: hsl(0, 0%, 50%);
+    outline:none;
 }
 button:active{
     background-color: hsl(0, 0%, 70%);
+    outline:none;
 }
 
 .operator{
     background-color: hsl(37, 96%, 40%);
+    outline:none;
 }
 .operator:hover{
-    background-color: hsl(37, 96%, 60%);;
+    background-color: hsl(37, 96%, 60%);
+    outline:none;
 }
 
 .operator:active{
-    background-color: hsl(37, 96%, 80%);;
+    background-color: hsl(37, 96%, 80%);
+    outline:none;
 }
 
